@@ -366,7 +366,7 @@ ul#nav li.current a { color: #F06000; }
    margin: 32px 0;
    color: #EBEEEE;
 	display: inline-block;
-	float: left;
+	float: center;
    width: 26%;
 }
 #movie input,
