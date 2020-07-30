@@ -363,7 +363,7 @@ ul#nav li.current a { color: #F06000; }
 #movie form { margin-bottom: 30px; }
 #movie label {
    font: 15px/24px 'opensans-bold', sans-serif;
-   margin: 12px 0;
+   margin: 32px 0;
    color: #EBEEEE;
 	display: inline-block;
 	float: left;
